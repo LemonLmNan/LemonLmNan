@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - [Netty ByteBuf 源码解析](https://juejin.im/post/6844903983530655751)
 - [Netty 异步Future源码解读](https://juejin.im/post/6844904021887565831)
+- [Netty FastThreadLocal](https://www.cnblogs.com/wuhaonan/p/11565659.html)
 
 
 
@@ -44,8 +45,14 @@ Here are some ideas to get you started:
 
 ## 其它
 
+- [JDK 线程池](https://juejin.im/post/6844903984365486094)
+
+- [JDK ThreadLocal](https://juejin.im/post/6844903988391854094)
+
 - [Zookeeper 分布式锁](https://juejin.im/post/6844904022550249485)
 - [Redis 知识简单总结](https://juejin.im/post/6844904014941782030)
+
+- [[springboot Redistemplate的execute和 executePipelined](https://www.cnblogs.com/wuhaonan/p/10646277.html)](https://www.cnblogs.com/wuhaonan/p/10646277.html)
 
 
 
