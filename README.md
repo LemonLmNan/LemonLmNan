@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 
 ## Netty 系列
 
-- [Netty 使用及事件传递](https://juejin.im/post/6844903985720229902)
+- [Netty源码分析-服务端启动流程](https://juejin.im/post/6890768117803253768)
+
+- [Netty使用及事件传递](https://juejin.im/post/6844903985720229902)
 
 - [Netty ByteBuf 源码解析](https://juejin.im/post/6844903983530655751)
-- [Netty 异步Future源码解读](https://juejin.im/post/6844904021887565831)
+
+- [Netty异步Future源码解读](https://juejin.im/post/6844904021887565831)
+
 - [Netty FastThreadLocal](https://www.cnblogs.com/wuhaonan/p/11565659.html)
 
-
-
-
+  
 
 ## Kubernetes 入门系列
 
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 其它
 
-- [初探JVM字节码](https://juejin.im/post/6885658003811827725)
+- [🌱 ] [初探JVM字节码](https://juejin.im/post/6885658003811827725)
 
 - [JDK 线程池](https://juejin.im/post/6844903984365486094)
 
@@ -55,11 +57,3 @@ Here are some ideas to get you started:
 - [Redis 知识简单总结](https://juejin.im/post/6844904014941782030)
 
 - [springboot Redistemplate的execute和 executePipelined](https://www.cnblogs.com/wuhaonan/p/10646277.html)
-
-
-
-## 笔记
-
-- [select、poll、信号驱动、epoll学习笔记](https://juejin.im/post/6844904170282024967)
-- [linux 上的内存分配](https://juejin.im/post/6844904190452432909)
-
