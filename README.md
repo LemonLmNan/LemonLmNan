@@ -54,6 +54,5 @@ Here are some ideas to get you started:
 - [JDK ThreadLocal](https://juejin.im/post/6844903988391854094)
 
 - [Zookeeper 分布式锁](https://juejin.im/post/6844904022550249485)
-- [Redis 知识简单总结](https://juejin.im/post/6844904014941782030)
-
 - [springboot Redistemplate的execute和 executePipelined](https://www.cnblogs.com/wuhaonan/p/10646277.html)
+
