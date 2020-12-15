@@ -13,7 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+
+
+##  Java
+
+- [初探JVM字节码](https://juejin.im/post/6885658003811827725)
+- [JDK 线程池](https://juejin.im/post/6844903984365486094)
+- [JDK ThreadLocal](https://juejin.im/post/6844903988391854094)
+
+
 
 ## Netty 系列
 
@@ -46,12 +56,6 @@ Here are some ideas to get you started:
 
 
 ## 其它
-
-- [初探JVM字节码](https://juejin.im/post/6885658003811827725)
-
-- [JDK 线程池](https://juejin.im/post/6844903984365486094)
-
-- [JDK ThreadLocal](https://juejin.im/post/6844903988391854094)
 
 - [Zookeeper 分布式锁](https://juejin.im/post/6844904022550249485)
 - [springboot Redistemplate的execute和 executePipelined](https://www.cnblogs.com/wuhaonan/p/10646277.html)
