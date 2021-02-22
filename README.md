@@ -59,11 +59,3 @@ Here are some ideas to get you started:
 
 - [Zookeeper 分布式锁](https://juejin.im/post/6844904022550249485)
 - [springboot Redistemplate的execute和 executePipelined](https://www.cnblogs.com/wuhaonan/p/10646277.html)
-
-
-
-## 笔记
-
-- [Linux上的内存分配](https://juejin.cn/post/6844904190452432909)
-
--  [select、poll、信号驱动、epoll 学习笔记](https://juejin.cn/post/6844904170282024967)
